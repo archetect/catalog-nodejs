@@ -1,6 +1,6 @@
 ---
 entries:
-  - catalog:
+  - archetype:
       description: ExpressJS
       source: git@github.com:archetect/node-expressjs.git
 
