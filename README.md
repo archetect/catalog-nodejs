@@ -1,3 +1,3 @@
 ```
-archetect render git@github.com:archetect/node-expressjs.git
+archetect render git@github.com:archetect/catalog-nodejs.git 
 ```
